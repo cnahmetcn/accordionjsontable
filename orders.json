@@ -1,0 +1,126 @@
+{
+    "totalElements": 40,
+    "content": [
+        {
+            
+            "shipmentAddress": {
+                "id": 1,
+                "address1": "Adres",
+                "city": " Şehir ",
+                "district": "Mahalle / Sokak",
+                "countryCode": "Ülke Kodu",
+                "fullName": "Adı Soyadı"
+            
+            },
+            "orderNumber": "Sipariş No",
+            "grossAmount": 32.90,
+            "totalDiscount": 0.00,
+            "customerFirstName": "Adı",
+            "customerEmail": "adsoyad@mail.com",
+            "customerId": 20607975,
+            "customerLastName": "Soyadı",
+            "id": 208064491,
+            "cargoTrackingNumber": 7272527948575,
+            "cargoTrackingLink": "http://kargono.com",
+            "cargoSenderNumber": "7272527948575",
+            "cargoProviderName": "Kargo",
+            "lines": [
+                {
+                    "quantity": 1,
+                    "salesCampaignId": 518657,
+                    "productSize": "Ürün Boyutu",
+                    "merchantSku": "Ürün Id",
+                    "productName": "Ürün Tam Adı",
+                    "productCode": 73970721,
+                    "merchantId": 123456,
+                    "amount": 32.9,
+                    "discount": 0,
+                    "discountDetails": [
+                        {
+                            "lineItemPrice": 32.9,
+                            "lineItemDiscount": 0
+                        }
+                    ],
+                    "currencyCode": "Ürün Fiyat Kodu",
+                    "productColor": "Renk",
+                    "id": 349227288,
+                    "sku": "Barkod",
+                    "vatBaseAmount": 18.0,
+                    "barcode": "Barkod",
+                    "orderLineItemStatusName": "Sipariş Teslim Durumu",
+                    "price": 32.90
+                }
+            ],
+            "orderDate": 1595089387701,
+            "tcIdentityNumber": "99999999999",
+            "currencyCode": "Ürün Fiyat Kodu",
+            "shipmentPackageStatus": "Sipariş Teslim Durumu",
+            "deliveryType": "normal",
+            "scheduledDeliveryStoreId": "20001030106360",
+            "estimatedDeliveryStartDate": 1595262187000,
+            "estimatedDeliveryEndDate": 1595521387000,
+            "totalPrice": 32.90
+        },
+        {
+            
+            "shipmentAddress": {
+                "id": 1,
+                "address1": "Adres",
+                "city": " Şehir ",
+                "district": "Mahalle / Sokak",
+                "countryCode": "Ülke Kodu",
+                "fullName": "Adı Soyadı"
+            
+            },
+            "orderNumber": "Sipariş No",
+            "grossAmount": 32.90,
+            "totalDiscount": 0.00,
+            "customerFirstName": "Adı",
+            "customerEmail": "adsoyad@mail.com",
+            "customerId": 20607975,
+            "customerLastName": "Soyadı",
+            "id": 208064491,
+            "cargoTrackingNumber": 7272527948575,
+            "cargoTrackingLink": "http://kargono.com",
+            "cargoSenderNumber": "7272527948575",
+            "cargoProviderName": "Kargo",
+            "lines": [
+                {
+                    "quantity": 1,
+                    "salesCampaignId": 518657,
+                    "productSize": "Ürün Boyutu",
+                    "merchantSku": "Ürün Id",
+                    "productName": "Ürün Tam Adı",
+                    "productCode": 73970721,
+                    "merchantId": 123456,
+                    "amount": 32.9,
+                    "discount": 0,
+                    "discountDetails": [
+                        {
+                            "lineItemPrice": 32.9,
+                            "lineItemDiscount": 0
+                        }
+                    ],
+                    "currencyCode": "Ürün Fiyat Kodu",
+                    "productColor": "Renk",
+                    "id": 349227288,
+                    "sku": "Barkod",
+                    "vatBaseAmount": 18.0,
+                    "barcode": "Barkod",
+                    "orderLineItemStatusName": "Sipariş Teslim Durumu",
+                    "price": 32.90
+                }
+            ],
+            "orderDate": 1595089387701,
+            "tcIdentityNumber": "99999999999",
+            "currencyCode": "Ürün Fiyat Kodu",
+            "shipmentPackageStatus": "Sipariş Teslim Durumu",
+            "deliveryType": "normal",
+            "scheduledDeliveryStoreId": "20001030106360",
+            "estimatedDeliveryStartDate": 1595262187000,
+            "estimatedDeliveryEndDate": 1595521387000,
+            "totalPrice": 32.90
+        }
+        
+    ]
+}

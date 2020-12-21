@@ -2,6 +2,11 @@ $(function () {
      $(document).on("click", ".fold-table tr.view", function () {
        $(this).toggleClass("open").next(".fold").toggleClass("open");
      });
+     /* Only Button
+      $(document).on("click", ".button-detay", function () {
+        $(this).parent().parent().toggleClass("open").next(".fold").toggleClass("open");
+      });
+     */
    
   
      $.get("./orders.json", function (data) {
